@@ -82,7 +82,9 @@ The Power BI dashboard consists of three pages designed for different areas of b
 
 ### 1. Executive Overview
 
-The Executive Overview provides a high-level view of overall supermarket performance.
+The Executive Overview page provides a high-level view of supermarket performance, including revenue, gross income, transactions, customer contribution, branch performance, and monthly revenue trends.
+
+![Executive Overview](Dashboard/Executive_Overview.png)
 
 #### Key KPIs
 
@@ -110,6 +112,8 @@ The Executive Overview provides a high-level view of overall supermarket perform
 
 The Customer Analysis page focuses on customer segmentation, revenue contribution, and customer ratings.
 
+![Customer Analysis](Dashboard/Customer_Analysis.png)
+
 #### Key KPIs
 
 - Member Revenue: **189.69K**
@@ -133,7 +137,9 @@ The Customer Analysis page focuses on customer segmentation, revenue contributio
 
 ### 3. Operations
 
-The Operations page focuses on transaction patterns, payment methods, and time-based sales activity.
+The Operations page analyzes payment methods, daily revenue and transaction patterns, hourly revenue, and overall operational KPIs.
+
+![Operations](Dashboard/Operations.png)
 
 #### Key KPIs
 
