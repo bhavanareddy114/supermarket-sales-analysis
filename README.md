@@ -6,6 +6,14 @@ This project analyzes supermarket sales data using SQL and Power BI to understan
 
 The project includes data preparation, SQL analysis covering 15 business questions, and a 3-page interactive Power BI dashboard.
 
+## Project Highlights
+
+- Analyzed **1,000 supermarket transactions** using SQL.
+- Built a **3-page interactive Power BI dashboard**.
+- Analyzed revenue across **products, customers, branches, payment methods, and time periods**.
+- Compared **Member vs Normal customers** and customer behavior by gender.
+- Identified key **daily and hourly sales patterns**.
+
 ## Tools Used
 
 - SQL
